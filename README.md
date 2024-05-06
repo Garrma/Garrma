@@ -1,5 +1,12 @@
 ### Maxime
 
+Here you can find some of my projects, mainly done while being a student in Mathematics & Finance.
+
+A bit about myself : competitive and hard-working by nature, addicted to improving and writing clean code. <br>
+Probably watching Chuck for the 10-th time while 💻
+
+I am passionate about designing the best structures to take the most out of a program. 
+
 <!--
 **Garrma/Garrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
